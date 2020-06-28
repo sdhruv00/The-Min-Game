@@ -1,0 +1,34 @@
+{
+  "expo": {
+    "name": "The Min Game",
+    "slug": "TheMinGame",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "version": "2.0.0",
+    "orientation": "portrait",
+    "icon": "./appLogo/search.png",
+    "splash": {
+      "image": "./appSplashLogo/myName.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.DhruvSharma.theMinGame",
+      "buildNumber": "2.0.0"
+    },
+    "android": {
+      "package": "com.DhruvSharma.theMinGame",
+      "versionCode": 2
+    }
+  }
+}
