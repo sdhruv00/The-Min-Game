@@ -21,7 +21,7 @@ export default function App() {
             fontSize: 25
           },
           headerStyle: {
-            backgroundColor: '#7E57C2',
+            backgroundColor: '#A8D5BAFF',
             height: 80
           }
         }} />
@@ -32,7 +32,7 @@ export default function App() {
             fontSize: 25,
           },
           headerStyle: {
-            backgroundColor: '#7E57C2',
+            backgroundColor: '#E69A8DFF',
             height: 80,
           }
         }}/>
@@ -44,7 +44,7 @@ export default function App() {
 
           },
           headerStyle: {
-            backgroundColor: '#7E57C2',
+            backgroundColor: '#CDB599FF',
             height: 80
           }
         }}/>

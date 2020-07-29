@@ -16,10 +16,10 @@ const styles = StyleSheet.create({
         borderRadius: 10, 
         paddingVertical: 25, 
         paddingHorizontal: 30, 
-        backgroundColor: '#FFD600'
+        backgroundColor: '#A8D5BAFF'
     },
     buttonText: {
-        color: 'black',
+        color: 'white',
         fontWeight: 'bold',
         textTransform: 'uppercase',
         fontSize: 25, 
