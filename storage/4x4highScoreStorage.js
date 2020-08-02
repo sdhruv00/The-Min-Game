@@ -1,3 +1,7 @@
+//4x4highScoreStorage.js
+//The Min Game
+//Created by Dhruv Sharma on 2020-06-18
+//Copyright © 2020 Dhruv Sharma. All rights reserved. 
 
 import { AsyncStorage } from 'react-native';
 
